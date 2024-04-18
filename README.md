@@ -10,7 +10,7 @@ Kafitra Marna Ibrahim (C2C022107)
 
 #### How to install
 
-`http
+`
   pyinstaller --clean --windowed --onefile --add-data "./views/home.ui;views/" main.py
 `
 
